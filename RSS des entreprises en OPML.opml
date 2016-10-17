@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>RSS des entreprises en OPML</title>
+    <dateCreated>Mon, 17 Oct 2016 11:26:01</dateCreated>
+  </head>
+  <body>
+    <outline text="RSS__des_Entreprises">
+		<outline text="http://nerds.airbnb.com/feed/"/>
+		<outline text="https://feeds.feedburner.com/AmazonWebServicesBlog"/>
+		<outline text="http://blablatech.com/atom.xml"/>
+		<outline text="https://blog.cloudflare.com/rss/"/>
+		<outline text="http://engineering.dailymotion.com/rss/"/>
+		<outline text="https://engineering.datadoghq.com/index.xml"/>
+		<outline text="https://blogs.dropbox.com/tech/feed/"/>
+		<outline text="https://code.facebook.com/posts/rss"/>
+		<outline text="https://code.flickr.net/feed/"/>
+		<outline text="http://githubengineering.com/atom.xml"/>
+		<outline text="https://feeds.feedburner.com/ClPlBl"/>
+		<outline text="https://googleprojectzero.blogspot.fr/"/>
+		<outline text="https://feeds.feedburner.com/GoogleOnlineSecurityBlog"/>
+		<outline text="https://engineering.linkedin.com/blog"/>
+		<outline text="https://www.nbs-system.com/feed"/>
+		<outline text="http://techblog.netflix.com/feeds/posts/default"/>
+		<outline text="https://www.octopuce.fr/categorie/blog/feed/"/>
+		<outline text="https://blog.online.net/rss/"/>
+		<outline text="https://blog.opendns.com/feed/"/>
+		<outline text="https://engineering.pinterest.com/blog/rss"/>
+		<outline text="https://developers.soundcloud.com/blog.rss"/>
+		<outline text="https://blog.trainline.eu/"/>
+		<outline text="https://engineeringblog.yelp.com/"/>
+	</outline>
+	</body>
+</opml>
